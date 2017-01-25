@@ -15,7 +15,7 @@ int main(){
         scanf("%s", num);
         if(num[0] == '0')
             break;
-    
+
         int size = strlen(num);
 
         while(size > 1){
